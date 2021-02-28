@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="STYLESHEET" href="style.css" type="text/css">
+</head>
+<body>
+
+<div class="header">
+  <h1>DEA. Nieuws</h1>
+  <p>Het laatste nieuws op DEA.</p>
+</div>
+
+<div class="topnav">
+  <a href="#">Recent</a>
+  <a href="#">Algemeen</a>
+  <a href="#">Economie</a>
+  <a href="#">Sport</a>
+  <a href="#">Tech</a>
+  <a href="#">Media&Cultuur</a>
+  <p>zoek:</p>           
+<form method="post">
+<input type="text" name="zoekwoord" />
+<input type="submit" name="searchBtn" value="zoeken naar" />
+</form>
+  <a href="#" style="float:right">Mijn DEA.</a>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>Joe Biden officieel beëdigd, ’eenheid’ is het toverwoord</h2>
+      <h5>WASHINGTON - Joe Biden is de nieuwe president van Amerika. Hij werd woensdag officieel beëdigd in het Capitool. Eerst legde Biden op het westelijke terras van het parlementsgebouw de presidentiële eed af, waarna hij een toespraak hield met als hoofdthema de eenheid van de natie. Ondertussen is er veel aandacht voor kleding. 20 Jan, 2021</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+    </div>
+    <div class="card">
+      <h2>Als Kamer instemt komt er een avondklok</h2>
+      <h5>DEN HAAG - „Niemand wil een avondklok”, zegt premier Rutte tijdens de persconferentie. Toch wil het demissionaire kabinet de avondklok doorvoeren, een paar dagen nadat de Kamer erover heeft gedebatteerd. Het dringende advies voor thuisbezoek wordt aangescherpt van 2 naar 1 bezoeker per dag. 20 Jan 2021</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>Alibaba stijgt in Hongkong na optreden ‘vermiste’ topman Jack Ma</h2>
+      <h5>Het aandeel van het Chinese webwinkelconcern Alibaba schoot woensdag ruim 8 procent omhoog op de beurs in Hongkong. Beleggers reageerden verheugd op het nieuws dat oprichter en topman Jack Ma na weken van afwezigheid weer van zich liet horen. In een video op social media sprak hij leraren toe als onderdeel van een zijn liefdadigheidsinitiatieven. 20 Jan 2021</h5>
+      <div class="fakeimg" style="height:100px;">Image</div>
+    </div>
+    <div class="card">
+      <h3>Popular Post</h3>
+      <div class="fakeimg"><p>Image</p></div>
+      <div class="fakeimg"><p>Image</p></div>
+      <div class="fakeimg"><p>Image</p></div>
+    </div>
+    <div class="card">
+      <h3>Volg DEA.</h3>
+      <p>Voor alle het nieuws.</p>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <h2>Footer</h2>
+</div>
+
+</body>
+</html>
