@@ -11,17 +11,10 @@
 </div>
 
 <div class="topnav">
-  <a href="#">Recent</a>
-  <a href="#">Algemeen</a>
+  <a href="#">Binnenland</a>
+  <a href="#">Buitenland</a>
   <a href="#">Economie</a>
   <a href="#">Sport</a>
-  <a href="#">Tech</a>
-  <a href="#">Media&Cultuur</a>
-  <p>zoek:</p>           
-<form method="post">
-<input type="text" name="zoekwoord" />
-<input type="submit" name="searchBtn" value="zoeken naar" />
-</form>
   <a href="#" style="float:right">Mijn DEA.</a>
 </div>
 
